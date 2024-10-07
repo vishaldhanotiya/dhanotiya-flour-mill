@@ -38,6 +38,7 @@ const ContactUs = () => {
               </div>
               <div class="rounded-lg overflow-hidden order-none sm:order-first">
                 <iframe
+                  title="Dhanotiya Flour Mill"
                   src="https://maps.google.com/maps?q=dhanotiya+flour+mill&t=&z=13&ie=UTF8&iwloc=&output=embed"
                   class="w-full"
                   width="600"
@@ -46,7 +47,7 @@ const ContactUs = () => {
                   allowfullscreen=""
                   loading="lazy"
                   referrerpolicy="no-referrer-when-downgrade"
-                ></iframe>
+                />
               </div>
             </div>
           </div>
