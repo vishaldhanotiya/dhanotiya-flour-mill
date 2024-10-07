@@ -2,7 +2,7 @@ import React from "react";
 
 const WhyUs = () => {
   return (
-    <div>
+    <div id="whyUs">
       <section class="text-gray-700 body-font mt-10">
         <div class="flex justify-center text-3xl font-bold text-gray-800 text-center">
           Why Us?

@@ -4,7 +4,7 @@ const NavBar = () => {
   return (
     <nav class="absolute z-10 flex w-full flex-wrap items-center justify-between p-3 bg-opacity-70  backdrop-filter backdrop-blur-lg">
       <div class="text-xl pl-10 text-white text-center font-bold ">
-        Dhanotiya Flour<br></br> Mill
+        Dhanotiya Flour Mill
       </div>
       <div class="flex  md:hidden">
         <button id="hamburger">
@@ -42,6 +42,12 @@ const NavBar = () => {
           class="block text-white md:inline-block hover:text-blue-500 px-3 py-3 md:border-none font-bold"
         >
           About us
+        </a>
+        <a
+          href="#whyUs"
+          class="block text-white md:inline-block hover:text-blue-500 px-3 py-3 md:border-none font-bold"
+        >
+          Why Us
         </a>
 
         <a
